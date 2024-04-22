@@ -20,13 +20,13 @@ This is a very simple project. It contains two primary folders namely /src and /
 
 ## Usage
 
-Run `npm install csv-to-json` to install
+Run `npm install csv-to-json-writer` to install
 
 ## Example
 
 ```js
 import path from "path";
-import { convert } from "../src/index.js";
+import { convert } from "csv-to-json-writer";
 
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
