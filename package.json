@@ -1,0 +1,28 @@
+{
+  "name": "csv-to-json-writer",
+  "version": "0.0.1",
+  "description": "A simple package to convert csv files to json files 🤗.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "demo": "node demo/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cur10sDEV/csv-to-json-writer.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "convert"
+  ],
+  "author": "cur10sdev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cur10sDEV/csv-to-json-writer/issues"
+  },
+  "homepage": "https://github.com/cur10sDEV/csv-to-json-writer#readme",
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  }
+}
