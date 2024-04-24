@@ -1,6 +1,6 @@
 {
   "name": "csv-to-json-writer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple package to convert csv files to json files 🤗.",
   "main": "src/index.js",
   "type": "module",
